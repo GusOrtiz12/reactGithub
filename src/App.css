@@ -1,4 +1,18 @@
-.App {
+.github-profile{
+  margin: 1rem;
+}
+.github-profile img{
+  width: 75px;
+}
+.github-profile info{
+  display: inline-block;
+  margin-left: 12px;
+}
+.github-profile info{
+  font-size: 1.24rem;
+  font-weight: bold;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +49,5 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+
